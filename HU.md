@@ -12,3 +12,6 @@ Az ellenfél minden summoner spelljét csak és kizárólag rád használja el (
 
 ## Vexcellent build path
 Ruby Crystal (Rubinkristály +150 életerő)
+
+## ADC Moment
+Bármilyen Marksman amikor éppen teljesen haszontalan, vagy halott. (mindig)
