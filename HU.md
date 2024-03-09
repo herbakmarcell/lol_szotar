@@ -9,3 +9,6 @@ A játék legfontosabb szakaszában szabad csak érdemi dolgot csinálni (Baron 
 
 ## Certified Barnabás Moment (CBM)
 Az ellenfél minden summoner spelljét csak és kizárólag rád használja el (mert a többi esetben nincsen rá szüksége).
+
+## Vexcellent build path
+Ruby Crystal (Rubinkristály +150 életerő)
