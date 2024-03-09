@@ -60,4 +60,3 @@ Ha egy nem elfeedelt enemy egyedül van és 1v1-et kezdeményez, nincs egyedül.
 
 # Rave Flash
 Mikor valaki belevillan (flash) a falba.
-
