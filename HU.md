@@ -15,3 +15,6 @@ Ruby Crystal (Rubinkristály +150 életerő)
 
 ## ADC Moment
 Bármilyen Marksman amikor éppen teljesen haszontalan, vagy halott. (mindig)
+
+# Zacskós Instant Report
+A meccs első percében kiosztott jelentés.
